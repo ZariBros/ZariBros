@@ -1,0 +1,1 @@
+fun println(message: хуйня)
